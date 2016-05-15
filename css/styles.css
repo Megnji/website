@@ -1,0 +1,10 @@
+.about { background: #f2f2f2; padding-top: 10%; padding-bottom: 10%; width: 100%; font-size: 1rem; }
+.about .text { margin-top: 5vh; z-index: 9999; width: 100%; font-size: 1em; text-align: center; color: #202425; }
+.about h1 { color: black; font-family: 'Dawning of a New Day', cursive; font-size: 5em; text-align: center; }	
+.about h2 {color: black; font-family:"KaiTi",serif; font-size: 4em; text-align: center; }
+.about ul { list-style-type: none; padding: 0px; }
+.about ul li { text-align: center; }
+.about a { color: #1B7FF2	; text-decoration: none; }
+.about a:hover { color: #01b170; text-decoration: underline; }
+
+.contact {background: #202425;padding-top: 5%; padding-bottom: 5%; width: 100%; font-size:1 rem;}
